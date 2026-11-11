@@ -42,4 +42,3 @@ Scheduler memeriksa website yang sudah waktunya diperiksa setiap menit. Interval
 - Data website dipisahkan berdasarkan akun.
 
 Peringatan gangguan pada versi ini muncul di dashboard. Pengiriman email atau pesan ke layanan eksternal belum dikonfigurasi.
-
